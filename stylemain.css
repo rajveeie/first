@@ -1,0 +1,55 @@
+h1 {
+    background-color: #15ABAB;
+}
+h2 {
+    background-color: #15ABAB;
+}
+h3 {
+    background-color: #15ABAB;
+}
+/* big {
+    color: orange soda;
+} */
+
+body {
+    background-color: #a1dcf6;
+}
+button {
+    background-color: #f0a500;
+    color: black;
+    /* border: 2px solid #f0a500; */
+    padding: 10px 20px;
+    font-size: 10px;
+    cursor: pointer;
+}
+    /* color:brown; */
+/* } */
+
+/* abc {
+    color: #f00004;
+} */
+
+#headone {
+    color: #000000;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+#headtwo {
+    font-family: Arial;
+}
+
+#headthree {
+    font-family: Arial;
+}
+#headfour {
+    font-family: Arial;
+}
+
+.sixty {
+    font-family: roboto;
+}
+
+h1 {
+    text-align: center;
+}
